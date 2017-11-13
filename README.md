@@ -39,4 +39,5 @@ The mysql database will need the following setup:
 #QValue int(11)
 #timestamp datetime (default value of CURRENT_TIMESTAMP)
 
-
+As commented in the script certain parameters will need to be filled in i.e the database connection, email addresses, and site url
+specific to your site.
